@@ -137,6 +137,9 @@ npm start
 cd backend
 npm start
 ```
+##problems I got while creating react app
+  `npm was not able to download the dependencies as it was showing some conflict
+  `so i used this command and it helped me "npm config set legacy-peer-deps true"
 ✅ Set up Firebase & Razorpay accounts.  
 ✅ Run frontend & backend locally for testing.  
 
